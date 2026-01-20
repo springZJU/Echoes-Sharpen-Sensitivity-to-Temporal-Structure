@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>cab30acf-6774-4cf7-b1da-fba9afa7e73d</identifier>
+  <displayType>Collection</displayType>
+  <translatedDisplayType>
+    <en_US>Collection</en_US>
+    <es_ES>Collection</es_ES>
+    <es_MX>Collection</es_MX>
+    <ja_JP>コレクション</ja_JP>
+    <ko_KR>컬렉션</ko_KR>
+    <zh_CN>集合</zh_CN>
+  </translatedDisplayType>
+  <name>EEGLAB</name>
+  <author>Arnaud Delorme</author>
+  <version>2020.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/cab30acf-6774-4cf7-b1da-fba9afa7e73d/1704693866/packages/zip?src=addons_ml_desktop_install&amp;profile_id=20304499&amp;license=40623085&amp;release_family=R2023b</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/cab30acf-6774-4cf7-b1da-fba9afa7e73d/2020.0.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/cab30acf-6774-4cf7-b1da-fba9afa7e73d/2b2e340a-c9e9-48a5-9bef-8b28de73478c/images/screenshot.jpg</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/cab30acf-6774-4cf7-b1da-fba9afa7e73d/2b2e340a-c9e9-48a5-9bef-8b28de73478c/releaseNotes</releaseNotesUrl>
+  <installationFolder>Collections</installationFolder>
+</addOn>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paths>
+  <path>.</path>
+  <path>.github</path>
+  <path>.github\ISSUE_TEMPLATE</path>
+  <path>functions</path>
+  <path>functions\adminfunc</path>
+  <path>functions\guifunc</path>
+  <path>functions\miscfunc</path>
+  <path>functions\popfunc</path>
+  <path>functions\sigprocfunc</path>
+  <path>functions\statistics</path>
+  <path>functions\studyfunc</path>
+  <path>functions\supportfiles</path>
+  <path>functions\supportfiles\channel_location_files</path>
+  <path>functions\supportfiles\channel_location_files\besa_egi</path>
+  <path>functions\supportfiles\channel_location_files\eeglab</path>
+  <path>functions\supportfiles\channel_location_files\neuroscan</path>
+  <path>functions\supportfiles\channel_location_files\others</path>
+  <path>functions\supportfiles\channel_location_files\philips_neuro</path>
+  <path>functions\supportfiles\channel_location_files\polhemus</path>
+  <path>functions\timefreqfunc</path>
+  <path>sample_data</path>
+  <path>sample_data\test_data</path>
+  <path>sample_data\test_data\BIDS_test</path>
+  <path>sample_data\test_data\BIDS_test\derivatives</path>
+  <path>sample_data\test_data\BIDS_test\derivatives\eeglab</path>
+  <path>sample_data\test_data\BIDS_test\derivatives\eeglab\sub-S1</path>
+  <path>sample_data\test_data\BIDS_test\derivatives\eeglab\sub-S1\ses-01</path>
+  <path>sample_data\test_data\BIDS_test\derivatives\eeglab\sub-S1\ses-01\eeg</path>
+  <path>sample_data\test_data\BIDS_test\sub-S1</path>
+  <path>sample_data\test_data\BIDS_test\sub-S1\ses-01</path>
+  <path>sample_data\test_data\BIDS_test\sub-S1\ses-01\eeg</path>
+  <path>sample_data\test_data\testmff.mff</path>
+  <path>sample_data\test_data\testmff.mff\Contents</path>
+  <path>sample_locs</path>
+</paths>
